@@ -3,13 +3,12 @@
 
 	<view class="app__inner">
 		<view class="index__banner">
-			<image src="https://res.jianhui.org/weapp-workflow/weapp-worfkflow@2x.jpg" mode="widthFix"
-				   class="index__banner-img"></image>
+			<image src="image/sarah.jpg" mode="widthFix" class="index__banner-img"></image>
 		</view>
 
 
 		<view class="index__header">
-			<view class="index__header-title">WeApp-Workflow</view>
+			<view class="index__header-title">酷图偶像</view>
 			<view class="index__header-desc">基于Gulp 的微信小程序前端开发工作流</view>
 			<view class="index__header-desc index__header-link" bindtap="copyText" data-text="https:\/\/github.com/Jeff2Ma/WeApp-Workflow">https://github.com/Jeff2Ma/WeApp-Workflow</view>
 		</view>
